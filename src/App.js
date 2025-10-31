@@ -118,14 +118,14 @@ export default function App() {
       but the collective dedication of my teammates and coaches. Among these honors are:
     </p>
     <ul>
-      <li>Men’s Soccer Pre-season All-Conference Team         (2025)</li>
-      <li>Men’s Soccer All-Conference Tournament Team         (2024)</li>
-      <li>American Athletic Conference All-Academic Team      (2024)</li>
-      <li>Men’s Soccer Pre-season All-Conference Team         (2024)</li>
-      <li>Men’s Soccer Second Team All-Conference             (2023)</li>
-      <li>Men’s Soccer Rookie Team All-Conference             (2022)</li>
-      <li>American Athletic Conference Champions              (2022)</li>
-      <li>American Athletic Conference Tournament Champions   (2022)</li>
+      <li>2025 - Men’s Soccer Pre-season All-Conference Team       </li>
+      <li>2024 - Men’s Soccer All-Conference Tournament Team       </li>
+      <li>2024 - American Athletic Conference All-Academic Team    </li>
+      <li>2024 - Men’s Soccer Pre-season All-Conference Team       </li>
+      <li>2023 - Men’s Soccer Second Team All-Conference           </li>
+      <li>2022 - Men’s Soccer Rookie Team All-Conference           </li>
+      <li>2022 - American Athletic Conference Champions            </li>
+      <li>2022 - American Athletic Conference Tournament Champions </li>
     </ul>
     <p>
       Each of these milestones reminds me that success in sports, as in life, comes from perseverance, discipline, and the ability
