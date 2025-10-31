@@ -100,7 +100,8 @@ html {
 /* SECTIONS */
 section {
   padding: 5rem 2rem;
-  text-align: center;
+  text-align: justify;
+  text-justify:inter-word;
 }
 
 section h2 {

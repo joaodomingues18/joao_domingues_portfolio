@@ -102,30 +102,30 @@ export default function App() {
       a student, and a teammate.
     </p>
     <p>
-      Growing up in <strong>Coimbra, Portugal</strong>, I began playing for <strong>Associação Académica de Coimbra</strong>,
+      Growing up in Coimbra, Portugal, I began playing for Associação Académica de Coimbra,
       one of the country’s most historic clubs. It was there that I learned the foundations of teamwork, responsibility,
       and commitment — lessons that would carry me far beyond the field. Later, I also had the opportunity to spend time in
-      <strong> FC Porto’s academy system</strong>, an experience that exposed me to a higher level of professionalism and competition
+      FC Porto’s academy system, an experience that exposed me to a higher level of professionalism and competition
       at a young age.
     </p>
     <p>
       That early foundation opened doors to an even greater challenge — continuing my soccer career while pursuing higher education
-      in the United States. I joined the <strong>Florida International University (FIU) Men’s Soccer Team</strong>, competing at the Division I level.
-      Playing in the <strong>American Athletic Conference</strong> has been an experience of intensity, growth, and pride.
+      in the United States. I joined the Florida International University (FIU) Men’s Soccer Team, competing at the Division I level.
+      Playing in the American Athletic Conference has been an experience of intensity, growth, and pride.
     </p>
     <p>
       Throughout my time at FIU, I have been fortunate to receive multiple recognitions that reflect not just personal effort,
       but the collective dedication of my teammates and coaches. Among these honors are:
     </p>
     <ul>
-      <li>Men’s Soccer Pre-season All-Conference Team (2025–2026)</li>
-      <li>Men’s Soccer All-Conference Tournament Team (2024–2025)</li>
-      <li>American Athletic Conference All-Academic Team (2024–2025)</li>
-      <li>Men’s Soccer Pre-season All-Conference Team (2024–2025)</li>
-      <li>Men’s Soccer Second Team All-Conference (2023–2024)</li>
-      <li>Men’s Soccer Rookie Team All-Conference (2022–2023)</li>
-      <li>American Athletic Conference Champions (2022–2023)</li>
-      <li>American Athletic Conference Tournament Champions (2022–2023)</li>
+      <li>Men’s Soccer Pre-season All-Conference Team         (2025)</li>
+      <li>Men’s Soccer All-Conference Tournament Team         (2024)</li>
+      <li>American Athletic Conference All-Academic Team      (2024)</li>
+      <li>Men’s Soccer Pre-season All-Conference Team         (2024)</li>
+      <li>Men’s Soccer Second Team All-Conference             (2023)</li>
+      <li>Men’s Soccer Rookie Team All-Conference             (2022)</li>
+      <li>American Athletic Conference Champions              (2022)</li>
+      <li>American Athletic Conference Tournament Champions   (2022)</li>
     </ul>
     <p>
       Each of these milestones reminds me that success in sports, as in life, comes from perseverance, discipline, and the ability
