@@ -64,18 +64,18 @@ export default function App() {
 <section id="about" className="about-me">
   <h2>About Me</h2>
   <p>
-    I was born and raised in <strong>Coimbra, Portugal</strong>, a small historic city known for its charm,
+    I was born and raised in Coimbra, Portugal, a small historic city known for its charm,
     culture, and academic spirit. Growing up there meant living in an environment where university life,
     community, and tradition blend together — a place where everyone knows everyone, and where ambition
     quietly grows alongside familiarity.
   </p>
   <p>
-    From a young age, I found joy and purpose in <strong>soccer</strong>. What started as a passion quickly
+    From a young age, I found joy and purpose in soccer. What started as a passion quickly
     became a central part of my life — shaping my discipline, mindset, and dreams. It gave me direction,
     opened doors, and eventually took me across the world.
   </p>
   <p>
-    At 18, I made one of the biggest decisions of my life: moving to <strong>Miami, Florida</strong>, to pursue
+    At 18, I made one of the biggest decisions of my life: moving to Miami, Florida, to pursue
     my education and continue playing soccer. Leaving home, family, and friends behind was not easy, but it was
     a challenge I welcomed with excitement and curiosity. I arrived in a new country without knowing anyone,
     guided only by the belief that growth often comes from stepping into the unknown.
@@ -87,7 +87,7 @@ export default function App() {
     imagined back in Coimbra.
   </p>
   <p>
-    Now, as I prepare to graduate with a <strong>Bachelor’s degree in Mechanical Engineering from Florida International University</strong>,
+    Now, as I prepare to graduate with a Bachelor’s degree in Mechanical Engineering from Florida International University,
     I look back with gratitude. Every step of this journey — from the narrow streets of Coimbra to the vibrant city
     of Miami — has been a lesson in independence, adaptation, and appreciation for the paths that life opens when you dare to take them.
   </p>
