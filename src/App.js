@@ -61,49 +61,88 @@ export default function App() {
       </nav>
 
       {/* ABOUT ME */}
-      <section 
-      id="about"
-      className="about-me">
-        <h2>About Me</h2>
-        <p>
-          Being both a full-time student and Division I athlete has never been
-          an easy role, but it has been one of the most defining experiences of
-          my life. Waking up at dawn for training sessions, followed by gym and
-          recovery work, and then diving into long afternoons of classes,
-          studies, and engineering projects has taught me discipline, time
-          management, and the ability to perform under pressure. These
-          experiences shaped my adaptability and built a mindset rooted in
-          consistency, perseverance, and purpose. While my athletic commitments
-          have limited my participation in extracurriculars, I have consistently
-          demonstrated academic excellence, maintaining a 3.89 GPA and excelling
-          in rigorous technical courses. Through both coursework and hands-on
-          experience — including Formula SAE and engineering internships — I
-          have developed a practical understanding supported by applied
-          experience in programming, SolidWorks, MATLAB, and data analysis. As I
-          prepare to transition into finance, I am motivated to apply my
-          analytical mindset, curiosity, and work ethic to the financial world.
-        </p>
-      </section>
-      
-      {/* SPORTS */}
-      <section 
-      id="sports"
-      className="split-section">
-        <div className="split-text">
-          <h2>Sports</h2>
-          <p>
-            Competing as a Division I student-athlete has been one of the most
-            formative parts of my life. It has taught me teamwork, resilience,
-            and how to perform under pressure — qualities that directly
-            translate into my academic and professional work. On the field, I
-            ’ve learned to lead, adapt quickly, and maintain focus through
-            challenges — values I carry into every aspect of my life.
-          </p>
-        </div>
-        <div className="split-img">
-          <img src={sports} alt="Sports" />
-        </div>
-      </section>
+<section id="about" className="about-me">
+  <h2>About Me</h2>
+  <p>
+    I was born and raised in <strong>Coimbra, Portugal</strong>, a small historic city known for its charm,
+    culture, and academic spirit. Growing up there meant living in an environment where university life,
+    community, and tradition blend together — a place where everyone knows everyone, and where ambition
+    quietly grows alongside familiarity.
+  </p>
+  <p>
+    From a young age, I found joy and purpose in <strong>soccer</strong>. What started as a passion quickly
+    became a central part of my life — shaping my discipline, mindset, and dreams. It gave me direction,
+    opened doors, and eventually took me across the world.
+  </p>
+  <p>
+    At 18, I made one of the biggest decisions of my life: moving to <strong>Miami, Florida</strong>, to pursue
+    my education and continue playing soccer. Leaving home, family, and friends behind was not easy, but it was
+    a challenge I welcomed with excitement and curiosity. I arrived in a new country without knowing anyone,
+    guided only by the belief that growth often comes from stepping into the unknown.
+  </p>
+  <p>
+    Since then, life has been a collection of moments that have shaped who I am — long days balancing studies and
+    training, quiet nights reflecting on how far I’ve come, and countless experiences that have broadened my view
+    of the world. I’ve made lifelong friends, learned from different cultures, and grown in ways I never could have
+    imagined back in Coimbra.
+  </p>
+  <p>
+    Now, as I prepare to graduate with a <strong>Bachelor’s degree in Mechanical Engineering from Florida International University</strong>,
+    I look back with gratitude. Every step of this journey — from the narrow streets of Coimbra to the vibrant city
+    of Miami — has been a lesson in independence, adaptation, and appreciation for the paths that life opens when you dare to take them.
+  </p>
+</section>
+
+{/* SPORTS */}
+<section id="sports" className="split-section">
+  <div className="split-text">
+    <h2>Sports</h2>
+    <p>
+      Soccer has been a defining part of my life — not just a sport, but a journey that has shaped who I am as a person,
+      a student, and a teammate.
+    </p>
+    <p>
+      Growing up in <strong>Coimbra, Portugal</strong>, I began playing for <strong>Associação Académica de Coimbra</strong>,
+      one of the country’s most historic clubs. It was there that I learned the foundations of teamwork, responsibility,
+      and commitment — lessons that would carry me far beyond the field. Later, I also had the opportunity to spend time in
+      <strong> FC Porto’s academy system</strong>, an experience that exposed me to a higher level of professionalism and competition
+      at a young age.
+    </p>
+    <p>
+      That early foundation opened doors to an even greater challenge — continuing my soccer career while pursuing higher education
+      in the United States. I joined the <strong>Florida International University (FIU) Men’s Soccer Team</strong>, competing at the Division I level.
+      Playing in the <strong>American Athletic Conference</strong> has been an experience of intensity, growth, and pride.
+    </p>
+    <p>
+      Throughout my time at FIU, I have been fortunate to receive multiple recognitions that reflect not just personal effort,
+      but the collective dedication of my teammates and coaches. Among these honors are:
+    </p>
+    <ul>
+      <li>Men’s Soccer Pre-season All-Conference Team (2025–2026)</li>
+      <li>Men’s Soccer All-Conference Tournament Team (2024–2025)</li>
+      <li>American Athletic Conference All-Academic Team (2024–2025)</li>
+      <li>Men’s Soccer Pre-season All-Conference Team (2024–2025)</li>
+      <li>Men’s Soccer Second Team All-Conference (2023–2024)</li>
+      <li>Men’s Soccer Rookie Team All-Conference (2022–2023)</li>
+      <li>American Athletic Conference Champions (2022–2023)</li>
+      <li>American Athletic Conference Tournament Champions (2022–2023)</li>
+    </ul>
+    <p>
+      Each of these milestones reminds me that success in sports, as in life, comes from perseverance, discipline, and the ability
+      to adapt under pressure. Soccer has taught me to thrive in competitive environments, to work relentlessly toward collective goals,
+      and to balance ambition with humility.
+    </p>
+    <p>
+      What began as a childhood dream in Coimbra has turned into a life-changing adventure — from local pitches to international stadiums,
+      and from teammates who became family to achievements that taught me the meaning of purpose and persistence.
+    </p>
+  </div>
+
+  <div className="split-img">
+    <img src={sports} alt="Sports" />
+  </div>
+</section>
+
 
       {/* ACADEMICS */}
       <section 
