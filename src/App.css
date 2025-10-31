@@ -110,6 +110,7 @@ section h2 {
   margin-bottom: 1.5rem;
   padding-bottom: 6px;
   color: #ffffff;
+  width: fit-content;
 }
 
 /* ABOUT ME */
